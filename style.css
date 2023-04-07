@@ -41,6 +41,12 @@ header {
   background-color: var(--primary-color);
 }
 
+main-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
